@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="20250830210051" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>तरुण तपसी</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter_0">
+      <navLabel>
+        <text>आवरण पृष्ठ</text>
+      </navLabel>
+      <content src="text/coverpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_1">
+      <navLabel>
+        <text>शीर्षक पृष्ठ</text>
+      </navLabel>
+      <content src="text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_2">
+      <navLabel>
+        <text>प्रतिलिपि अधिकार पृष्ठ</text>
+      </navLabel>
+      <content src="text/copyrightpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_3">
+      <navLabel>
+        <text>विषयसूची</text>
+      </navLabel>
+      <content src="text/tocpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_4">
+      <navLabel>
+        <text>भूमिका</text>
+      </navLabel>
+      <content src="text/bhumika.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_5">
+      <navLabel>
+        <text>प्रथम विश्राम</text>
+      </navLabel>
+      <content src="text/pratham-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_6">
+      <navLabel>
+        <text>द्वितीय विश्राम</text>
+      </navLabel>
+      <content src="text/dwitiya-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_7">
+      <navLabel>
+        <text>तृतीय विश्राम</text>
+      </navLabel>
+      <content src="text/tritiya-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_8">
+      <navLabel>
+        <text>चतुर्थ विश्राम</text>
+      </navLabel>
+      <content src="text/chaturtha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_9">
+      <navLabel>
+        <text>पञ्चम विश्राम</text>
+      </navLabel>
+      <content src="text/pancham-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_10">
+      <navLabel>
+        <text>षष्ठ विश्राम</text>
+      </navLabel>
+      <content src="text/shastha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_11">
+      <navLabel>
+        <text>सप्तम विश्राम</text>
+      </navLabel>
+      <content src="text/saptam-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_12">
+      <navLabel>
+        <text>अष्टम विश्राम</text>
+      </navLabel>
+      <content src="text/ashtam-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_13">
+      <navLabel>
+        <text>नवम विश्राम</text>
+      </navLabel>
+      <content src="text/navam-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_14">
+      <navLabel>
+        <text>दशम विश्राम</text>
+      </navLabel>
+      <content src="text/dasham-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_15">
+      <navLabel>
+        <text>एकादश विश्राम</text>
+      </navLabel>
+      <content src="text/ekadasha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_16">
+      <navLabel>
+        <text>द्वादश विश्राम</text>
+      </navLabel>
+      <content src="text/dwadasha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_17">
+      <navLabel>
+        <text>त्रयोदश विश्राम</text>
+      </navLabel>
+      <content src="text/trayodasha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_18">
+      <navLabel>
+        <text>चतुर्दश विश्राम</text>
+      </navLabel>
+      <content src="text/chaturdhasha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_19">
+      <navLabel>
+        <text>पञ्चदश विश्राम</text>
+      </navLabel>
+      <content src="text/panchadasha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_20">
+      <navLabel>
+        <text>षोडश विश्राम</text>
+      </navLabel>
+      <content src="text/shodash-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_21">
+      <navLabel>
+        <text>सप्तदश विश्राम</text>
+      </navLabel>
+      <content src="text/saptadasha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_22">
+      <navLabel>
+        <text>अष्टादश विश्राम</text>
+      </navLabel>
+      <content src="text/ashtadasha-bishram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_23">
+      <navLabel>
+        <text>एकोनविंशति विश्राम</text>
+      </navLabel>
+      <content src="text/akonambimshati-bishram.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

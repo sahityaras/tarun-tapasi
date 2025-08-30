@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2025-08-30T21:00:51Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20250830210051</dc:identifier>
+    <dc:title>तरुण तपसी</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">लेखनाथ पौड्याल</dc:creator>
+    <dc:date>2025-08-30T21:00:51Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <source_publisher>साझा प्रकाशन</source_publisher>
+    <source_edition>नवौँ</source_edition>
+    <source_year>२०६६</source_year>
+    <source_isbn>978-99933-2-755-4</source_isbn>
+    <book_about>हामी जब प्रत्येक श्लोक छुन्छौँ अनि कुनै सुर लागेको तारमा हात परेजस्तो हुन्छ, त्यो बज्दछ । लेखनाथका पदपद सङ्गीतमय छन् । उनीभन्दा अगाडिका नेपाली भाषामा लेख्ने कविहरूमा भानुभक्तको शैली सरल र मीठो छ, तर लेखनाथको स्पर्शले नेपाली कवितामा युगपरिवर्तन भयो, त्यो संस्कृतजत्तिकै उच्च संस्कृत बन्यो । लेखनाथलाई पाएर नेपाली भाषा गौरवान्वित भयो । उनीभन्दा पछाडिका कविहरू पनि अवश्य उनीबाट प्रभावित भएका छन्‌, परन्तु जुन विशिष्ट गुण छ त्यो उनैसित सुरक्षित छ जुन कसैले राम्ररी हात पार्न सकेका छैनन्‌ ।...&#13;
+रूखलाई लिएर संसारमा धेरै कविले कविता लेखेका छन्‌, कसैकसैले अद्‌भुत कल्पना पनि गरेका छन्‌ परन्तु रूखलाई तपसी बनाएर आदिदेखि अन्त्यसम्म जुन किसिमले त्यसलाई कविले निर्वाह गरेका छन्‌ त्यो संसारको काव्यजगत्‌लाई नै एक सृष्टिप्रदान भएको छ । बालककालदेखिको ठूलो काव्यसाधना तथा दार्शनिक अनुभूति नभई वृक्षसित तदाकार भएर 'तरुण तपसी' जस्तो सर्वश्रेष्ठ काव्य लेख्नु असम्भव छ । त्यसमा हामी त्यतिसम्म एकाकार पाउँछौँ कि कैयौँ ठाउँमा लेखनाथ बोलेको र रूख बोलेको हामीलाई एकात्मक लाग्दछ ।...&#13;
+कविशिरोमणि लेखनाथको कलमले ढुङ्गा, मूढा, रूख, पात, डोको, नाम्लो जेलाई छोए पनि त्यो सुन्दर कवितामय हुन्छ,... अझ जब लेखनाथ चरालाई छुन्छन्‌ तब उनी यथार्थमा द्विज बन्दछन्‌– लाग्दछ, उनी चराको भाषा बुझ्दछन्‌ ।...'शिकारीको झम्टा' ले मानिसको हृदयको कठालो समातेर कवि हामीलाई आदर्श कवितामा हाम्रो अनुहार देखाइदिन्छन्‌, हामी लाज पचाउन सक्तछौँ तर चिन्तन नगरी सुख छैन, अनि हामी आफूलाई रुँदै मासु खान लागेको पाउँछौँ । 'शिकारीको झम्टा' ले भन्दा लेखनाथको एक एक कविताले हामीलाई झम्टन्छ, झम्टा दिन्छ । महाकवि देवकोटाको 'हुरीको गीत' लाई म यहाँनेर सम्झन्छु, त्यो आँधीबेहरी लेखनाथमा छैन, उनमा त मन्द मधुर सुगन्ध शीतल कस्तूरीको सुवास आउने हिमालयमारुतको गति छ, तर कति ओजस्वी गौरवपूर्ण पाउ, एक एक चरणले हृदयको द्वार घचघच्याउँछ ।&#13;
+–बालकृष्ण सम</book_about>
+    <book_genre>नव्यकाव्य, खण्डकाव्य, काव्य</book_genre>
+    <book_slug>tarun-tapasi</book_slug>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/bhumika.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="text/pratham-bishram.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="text/dwitiya-bishram.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="text/tritiya-bishram.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="text/chaturtha-bishram.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="text/pancham-bishram.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="text/shastha-bishram.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="text/saptam-bishram.xhtml" id="chapter_11" media-type="application/xhtml+xml"/>
+    <item href="text/ashtam-bishram.xhtml" id="chapter_12" media-type="application/xhtml+xml"/>
+    <item href="text/navam-bishram.xhtml" id="chapter_13" media-type="application/xhtml+xml"/>
+    <item href="text/dasham-bishram.xhtml" id="chapter_14" media-type="application/xhtml+xml"/>
+    <item href="text/ekadasha-bishram.xhtml" id="chapter_15" media-type="application/xhtml+xml"/>
+    <item href="text/dwadasha-bishram.xhtml" id="chapter_16" media-type="application/xhtml+xml"/>
+    <item href="text/trayodasha-bishram.xhtml" id="chapter_17" media-type="application/xhtml+xml"/>
+    <item href="text/chaturdhasha-bishram.xhtml" id="chapter_18" media-type="application/xhtml+xml"/>
+    <item href="text/panchadasha-bishram.xhtml" id="chapter_19" media-type="application/xhtml+xml"/>
+    <item href="text/shodash-bishram.xhtml" id="chapter_20" media-type="application/xhtml+xml"/>
+    <item href="text/saptadasha-bishram.xhtml" id="chapter_21" media-type="application/xhtml+xml"/>
+    <item href="text/ashtadasha-bishram.xhtml" id="chapter_22" media-type="application/xhtml+xml"/>
+    <item href="text/akonambimshati-bishram.xhtml" id="chapter_23" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+    <itemref idref="chapter_22"/>
+    <itemref idref="chapter_23"/>
+  </spine>
+</package>
